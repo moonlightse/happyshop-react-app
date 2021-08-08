@@ -11,7 +11,7 @@ const Home = () => {
     return (
         
                 <div className="site-layout-background" style={{ padding: 24, minHeight: 380 }}>
-                    <Row >
+                    <Row>
                         <Col span={6}><Image
                             width={200}
                             src="https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png"
